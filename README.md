@@ -6,4 +6,5 @@ Scenario:
 Build sales dashboard for monitoring sales, revenue, profit.
 
 Dataset: include 5 tables
- ![Image of sales data](https://raw.githubusercontent.com/NgocHueLy/data-analysis-dev-sales-insight/main/dev-sales-dataset.JPG)
+
+![Image of sales data](https://raw.githubusercontent.com/NgocHueLy/data-analysis-dev-sales-insight/main/dev-sales-dataset.JPG)
